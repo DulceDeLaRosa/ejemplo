@@ -1,61 +1,57 @@
 
-Deckard is looking at Batty.
+Deckard is looking at Batty:
 
-Batty is partly crumpled, frozen in an unnatural posi-
-tion as though he had been writhing and stopped mid-
-writhe.  He looks back at Deckard with eyes full of
-life and intensity.
+		Batty is partly crumpled, frozen in an unnatural posi-
+		tion as though he had been writhing and stopped mid-
+		writhe.  He looks back at Deckard with eyes full of
+		life and intensity.
 
-They stare at each other for a long time in silence,
-communicating something with their eyes... without
-expression.  Finally Batty breaks the silence.
+..............................................................
 
-                        BATTY
-          I've seen things...
-                 (long pause)
-          seen things you little people
-          wouldn't believe... Attack ships
-          on fire off the shoulder of Orion
-          bright as magnesium... I rode on
-          the back decks of a blinker and
-          watched c-beams glitter in the dark
-          near the Tanhauser Gate.
-                 (pause)
-          all those moments... they'll be gone.
+		They stare at each other for a long time in silence,
+		communicating something with their eyes... without
+		expression.  Finally Batty breaks the silence.
 
-Batty holds Deckard's eyes like a hypnotist.
+                  --  BATTY ---
+    				      I've seen things...
+				                 (long pause)
+				          seen things you little people
+				          wouldn't believe... Attack ships
+				          on fire off the shoulder of Orion
+				          bright as magnesium... I rode on
+				          the back decks of a blinker and
+				          watched c-beams glitter in the dark
+				          near the Tanhauser Gate.
+				    
 
-                                           CUT TO:
-
-
-EXT. THE SECOND ROOF (A LITTLE LATER)
-
-Batty is crumpled in a different position.  It's light-
-er now and Batty's eyes are staring into infinity...
-almost lifelessly.  A pigeon flutters down and perches
-on his shoulder.  Batty doesn't stir.
-
-Deckard is watching motionless.
-
-The pigeon flies off.
-
-Batty doesn't move.  Alive or dead?
-
-                                           CUT TO:
+..............................................................
 
 
-EXT. THE SECOND ROOF - DAWN
 
-A more distant perspective.  Deckard is a small figure
-looking down at the dead body of Batty.
+			Batty is crumpled in a different position.  It's light-
+			er now and Batty's eyes are staring into infinity...
+			almost lifelessly.  A pigeon flutters down and perches
+			on his shoulder.  Batty doesn't stir.
+
+
+..............................................................
+
+
 
                         DECKARD (V.O.)
-          I watched him die all night.  It
-          was a long, slow thing and he
-          fought it all the way.  He never
-          whimpered and he never quit.  He
-          took all the time he had... as
-          though he loved life very much...
-          every second of it... even the
-          pain.  Then he was dead.
+      I watched him die all night.  It
+      was a long, slow thing and he
+      fought it all the way.  He never
+      whimpered and he never quit.  He
+      took all the time he had... as
+      though he loved life very much...
+      every second of it... even the
+      pain.  Then he was dead.
+
+
+			Lo vi muriendo toda la noche. Fué una larga y lenta cosa y el
+			lucho en todo los sentidos. EL nunca hizo muecas y nunca se rindió.
+			El tomó todo el tiempo que tenia . . . Como lo habia pensado, el quiso
+			mucho la vida , cada segundo, incluso el dolor.
+			Después el estaba muerto.
 
