@@ -1,16 +1,30 @@
 
 Deckard is looking at Batty:
 
-		Batty is partly crumpled, frozen in an unnatural posi-
-		tion as though he had been writhing and stopped mid-
-		writhe.  He looks back at Deckard with eyes full of
-		life and intensity.
+
+			Batty is partly crumpled, frozen in an unnatural position 
+			as though he had been writhing and stopped midwrithe.
+			He looks back at Deckard with eyes full of
+			life and intensity.
+
 
 ..............................................................
 
 		They stare at each other for a long time in silence,
 		communicating something with their eyes... without
 		expression.  Finally Batty breaks the silence.
+                        BATTY
+          I've seen things...
+                 (long pause)
+          seen things you little people
+          wouldn't believe... Attack ships
+          on fire off the shoulder of Orion
+          bright as magnesium... I rode on
+          the back decks of a blinker and
+          watched c-beams glitter in the dark
+          near the Tanhauser Gate.
+                 (not so long pause)
+          all those moments... they'll be gone.
 
                   --  BATTY ---
     				      I've seen things...
